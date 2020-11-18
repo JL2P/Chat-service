@@ -2,5 +2,5 @@
 
 ### 시작하기
 ```bash
-node server/index.js
+node index.js
 ```
